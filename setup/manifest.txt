@@ -1,0 +1,5 @@
+# python script will go through these one by one and run them
+
+init.sql
+fantasy/players.sql
+fantasy/stat_dim.sql
