@@ -1,0 +1,1 @@
+CREATE DATABASE wojbot_db;
